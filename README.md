@@ -370,12 +370,6 @@ Instituto Nacional de Cancerología
 
 ---
 
-## 🏥 Sobre el Instituto Nacional de Cancerología
-
-El Instituto Nacional de Cancerología es una institución líder en Colombia dedicada a la prevención, diagnóstico, tratamiento e investigación del cáncer. El Laboratorio de Co-creación para la Innovación trabaja en el desarrollo de soluciones tecnológicas innovadoras para mejorar la atención médica y la experiencia de los pacientes.
-
----
-
 ⭐ Si este proyecto te resulta útil, ¡considera darle una estrella en GitHub!
 
 📞 Para soporte técnico o consultas, contacta al equipo de desarrollo del Laboratorio de Co-creación.
